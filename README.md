@@ -1,6 +1,6 @@
-# Secret Santa
+# Secret Santa - Forked by Shane
 
-Check it live on [arcanis.github.io/secretsanta/](http://arcanis.github.io/secretsanta/).
+Check the original version live on [arcanis.github.io/secretsanta/](http://arcanis.github.io/secretsanta/).
 
 ## License (MIT)
 
